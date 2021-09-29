@@ -1,0 +1,11 @@
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\appsettings.json
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LongTH\Learning\rest_api_c#\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
